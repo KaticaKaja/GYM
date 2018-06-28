@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /img/
+Disallow: /*?
+
+sitemap: http://bodyripgym.epizy.com/sitemap.xml
